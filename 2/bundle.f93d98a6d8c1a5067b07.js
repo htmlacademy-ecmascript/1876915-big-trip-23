@@ -1,0 +1,2 @@
+(()=>{"use strict";const e=function(e){const t=document.createElement("div");return t.innerHTML="<button>Click!</button>",t.firstElementChild}();document.body.querySelector("main .page-body__container").prepend(e)})();
+//# sourceMappingURL=bundle.f93d98a6d8c1a5067b07.js.map
